@@ -1,0 +1,12 @@
+.small p {
+  width: 50px;
+  display: none;
+}
+.small .hr {
+  padding-left: 50px;
+  width: 70%;
+  margin-bottom: 45px;
+}
+.small h1 {
+  display: none;
+}
